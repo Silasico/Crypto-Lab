@@ -1,0 +1,30 @@
+csupply: "19067521.00"
+id: "90"
+market_cap_usd: "405773236515.63"
+msupply: "21000000"
+name: "Bitcoin"
+nameid: "bitcoin"
+percent_change_1h: "-0.08"
+percent_change_24h: "0.94"
+percent_change_7d: "-9.47"
+price_btc: "1.00"
+price_usd: "21280.86"
+rank: 1
+symbol: "BTC"
+tsupply: "19067521"
+volume24: 23005583772.2608
+volume24a: 28740982025.653046
+
+
+pink color: 
+FF00F2
+
+blue color:
+001AFF
+
+
+Welcome to Crypto Lab. Crypto Lab is an app that provides you with up to date informations on 60+ crypto currencies. We provide informations such as Symbols, logos, name, current prices with respect to Bitcoin and also with respect to US Dollars. We also provide datas including the percentage change within an hour time frame, 24hours and 7 days as well. This app is created for crypto currency enthusiasts who would like to get up to date details on their preferred coin. We hope you have a nice time using this application and we hope we've been able to solve one of your problems as well.
+
+This application was created using HTML, CSS and JavaScript with the help of a crypto currency API for handling the changes in prices of each currencies.
+
+This application was created by Silas Idowu (aka Silasico), a professional front end developer(HTML, CSS and JavaScript among others), graphic designer and video editor.
